@@ -2,8 +2,9 @@ Projeto acadêmico em Python para comparar seis algoritmos e testar um seletor a
 
 Feito em dupla:
 
--Amanda Roberta Bandeira Santos
--Antonio Roberto Da Silva Santos
+- Amanda Roberta Bandeira Santos
+
+- Antonio Roberto Da Silva Santos
 
 Objetivo: Implementar seis métodos de ordenação e um seletor que escolha um deles de acordo com características baratas da entrada.
 
